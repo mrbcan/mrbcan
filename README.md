@@ -4,7 +4,7 @@
 - 📫 How to reach me ... : berkecanbagci@gmail.com 
 - 
 
-- -  ##[Portfolio](https://github.com/kasapiniz/portfolio) -You can Check it out My Portfolio to see my projects ^^
+## [Portfolio](https://github.com/kasapiniz/portfolio) -You can Check it out My Portfolio to see my projects ^^
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
