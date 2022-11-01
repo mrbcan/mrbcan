@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Science and I believe that data will have a important place in our lives.
 - 🌱 I’m currently looking for a job to use my qualification and improved myself on this area.
 - 📫 How to reach me ... : berkecanbagci@gmail.com 
-- -  [Portfolio](https://github.com/kasapiniz/portfolio) -You can Check it out My Portfolio to see my projects ^^
+- 
+
+- -  ##[Portfolio](https://github.com/kasapiniz/portfolio) -You can Check it out My Portfolio to see my projects ^^
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
