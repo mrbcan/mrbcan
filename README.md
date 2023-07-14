@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Berke
 - 👀 I’m interested in Data Science and I believe that data will have a important place in our lives.
-- 🌱 I’m currently looking for a job to use my qualification and improved myself on this area.
+- 🌱 I’m currently working in the bank as an Analyst Programmer.
 - 📫 How to reach me ... : berkecanbagci@gmail.com 
 - 
 
