@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Berke
-- 👀 I’m interested in Data Science and I believe that data will have a important place in our lives.
+- 👋 Hi, I’m Berke Currently .Net Developer for 2 years.
+- 👀 I’m interested in Web Developer with also  Data Science/Engineering areas. And I believe that data will have a important place in our lives.
 - 🌱 I’m currently working in the bank as an Analyst Programmer.
 - 📫 How to reach me ... : berkecanbagci@gmail.com 
 - 
